@@ -4,14 +4,14 @@
 		   cellspacing="0px"
 		   style="margin:auto;"
 		   width="800px">
-		<tr height="25"  style="text-align: center;">
+		<tr height="50"  style="text-align: center;">
 			<td rowspan="2" >姓名</td>
             <td rowspan="2" width="100"> 谢培龙</td>
 			<td width="100">性别</td>
 			<td width="100"> 男</td>
 			<td>文化程度</td>
 			<td width="100">2021级本科生</td>
-			<td  rowspan="3" width="120"><img src="/xiaoxpl.jpg" width="100%"></td>
+			<td  rowspan="2" width="120" style="text-align: center;"><img src="/xiaoxpl.jpg" width="100%"></td>
 		</tr>
 		<tr height="50" style="text-align: center;">
 			<td>身高</td>
