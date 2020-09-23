@@ -1,10 +1,9 @@
 ## Welcome to xiaoxpl's GitHub Pages
-<p>
-	<table border="1"
+	<table border="0"
 		   cellspacing="0px"
 		   style="margin:auto;"
 		   width="800px">
-		<tr height="50"  style="text-align: center;">
+		<tr height="25"  style="text-align: center;">
 			<td rowspan="2" >姓名</td>
             <td rowspan="2" width="100"> 谢培龙</td>
 			<td width="100">性别</td>
@@ -135,9 +134,8 @@
 			<td></td>
 		</tr>
 		
-	</table>
 
-</p>
+
 
 
 
