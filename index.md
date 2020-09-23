@@ -89,20 +89,20 @@
 			<td colspan="2"></td>
 		</tr>
 		<tr height="50" style="text-align: center;">
-			<td rowspan="4">工作经历</td>
-			<td>时间</td>
-			<td colspan="3">工作地点</td>
+			<td rowspan="4">实践经历</td>
+			<td>项目名称</td>
+			<td colspan="3">工作内容</td>
 			<td colspan="2">职务</td>
 		</tr>
 		<tr height="50" style="text-align: center;">
-			<td ></td>
-			<td colspan="3"></td>
-			<td colspan="2"></td>
+			<td >京津冀科技一览</td>
+			<td colspan="3">在项目中，主要利用Python或Java进行数据采集，DataX，Hadoop，mongodb进行数据清洗。</td>
+			<td colspan="2">数据采集</td>
 		</tr>
 		<tr height="50" style="text-align: center;">
-			<td ></td>
-			<td colspan="3"></td>
-			<td colspan="2"></td>
+			<td >河北科技项目统计</td>
+			<td colspan="3">该项目为政府统计科技发展能力，在项目中用javascript完成前端的设计，完成表格数据的录入，存入mysql数据库主要并进行echart图形结果展示，工具eclipse ，mysql</td>
+			<td colspan="2">前端设计</td>
 		</tr>
 		<tr height="50" style="text-align: center;">
 			<td>待遇要求</td>
@@ -116,16 +116,7 @@
 			<td>河北省石家庄市石家庄铁道大学</td>
 			<td>邮编</td>
 			<td>050043</td>
-		</tr>
-		<tr height="50" style="text-align: center;">
-			<td>紧急联系人</td>
-			<td></td>
-			<td>与本人关系</td>
-			<td></td>
-			<td>联系电话</td>
-			<td></td>
-		</tr>
-		</table>
+		</tr></table>
 
 
 
