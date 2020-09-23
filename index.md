@@ -53,7 +53,10 @@
 		</tr>
 		<tr height="50" style="text-align: center;">
 			<td rowspan="2">个人简介</td>
-			<td colspan="6" rowspan="2">做自己的事，不问难易</td>
+			<td colspan="6" rowspan="2">做自己的事，不问难易
+				<a href="https://www.cnblogs.com/1983185414xpl/" title="boke">博客园主页</a>
+				<a href="https://github.com/xiaoxpl" title="Github">GitHub主页</a>
+			</td>
 		<tr height="50" style="text-align: center;">			
 		</tr>
 		<tr height="50" style="text-align: center;">
@@ -73,14 +76,6 @@
 			<td>无</td>
 		</tr>
 		<tr height="50" style="text-align: center;">
-			<td></td>
-			<td colspan="2"></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr height="50" style="text-align: center;">
 			<td>英语应用水平</td>
 			<td colspan="3">CET-4</td>
 			<td>职业期望</td>
@@ -97,11 +92,6 @@
 			<td>时间</td>
 			<td colspan="3">工作地点</td>
 			<td colspan="2">职务</td>
-		</tr>
-		<tr height="50" style="text-align: center;">
-			<td ></td>
-			<td colspan="3"></td>
-			<td colspan="2"></td>
 		</tr>
 		<tr height="50" style="text-align: center;">
 			<td ></td>
