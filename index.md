@@ -11,7 +11,7 @@
 			<td width="100"> 男</td>
 			<td>文化程度</td>
 			<td width="100">2021级本科生</td>
-			<td  rowspan="2" width="120" style="text-align: center;"><img src="/xiaoxpl.jpg" width="100%"></td>
+			<td  rowspan="3" width="120" align="center"><img src="/xiaoxpl.jpg" width="100%"></td>
 		</tr>
 		<tr height="50" style="text-align: center;">
 			<td>身高</td>
