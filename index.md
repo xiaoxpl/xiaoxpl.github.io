@@ -53,8 +53,9 @@
 		</tr>
 		<tr height="50" style="text-align: center;">
 			<td rowspan="2">个人简介</td>
-			<td colspan="6" rowspan="2">做自己的事，不问难易
+			<td colspan="6" rowspan="2">
 				<a href="https://www.cnblogs.com/1983185414xpl/" title="boke">博客园主页</a>
+				<br />
 				<a href="https://github.com/xiaoxpl" title="Github">GitHub主页</a>
 			</td>
 		<tr height="50" style="text-align: center;">			
