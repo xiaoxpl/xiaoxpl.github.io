@@ -1,53 +1,101 @@
 ## Welcome to xiaoxpl's GitHub Pages
-###个人信息
 <p>
-<table border="0">
-  <tr>
-    <td width="75%">
-      <h1>张三</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
-    </td>
-    <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
-    </td>
-  </tr>
-</table>
+<body>
+	<div>
+		
+		<table  width="800" align="center">
+			<tr>
+				
+				<td align="center"><p>个人简历</p>
+				</td>
+				<td >
+					
+				<img src="/xiaoxpl.jpg" width="130" height="130" alt="图片" align="right">
+				</td>
+			</tr>
+ 
+ 
+		</table>
+		
+		<table  align="center" width="800">
+			
+			<hr width="700" align="left">
+			<tr>
+				<td>姓名：</td>
+				<td width="100" height="50"></td>
+				
+				<td>性别：</td>
+				<td width="100" height="50"></td>
+				<td>民族：</td>
+				<td width="100" height="50"></td>
+			</tr>
+			<tr>
+				<td>出生年月：</td>
+				<td width="100" height="50"></td>
+				
+				<td>联系电话：</td>
+				<td width="100" height="50"></td>
+				<td>工作经验：</td>
+				<td width="100" height="50"></td>
+			</tr>
+			<tr>
+				<td>学历：</td>
+				<td width="100" height="50"></td>
+				
+				<td>专业：</td>
+				<td width="100" height="50"></td>
+				<td>毕业学校：</td>
+				<td width="100" height="50"></td>
+			</tr>
+			<tr>
+				<td>住址：</td>
+				<td height="50"></td>
+			</tr>
+			<tr>
+				<td>电子邮箱：</td>
+				<td height="50"></td>
+			</tr>
+			<tr>
+				<td>求职意向：</td>
+				<td height="50"></td>
+			</tr>
+	    </table>
+	    <hr width="800" align="center">
+	    <table align="center" width="800">
+	        <tr>
+				<td>目标职位</td>
+				<td height="50"></td>
+			</tr>
+			<tr>
+				<td>目标行业：</td>
+				<td height="50"></td>
+			</tr>
+			<tr>
+				<td>期望薪资：</td>
+				<td height="50"></td>
+			</tr>
+			<tr>
+				<td>期望地区：</td>
+				<td height="50"></td>
+			</tr>
+			<tr>
+				<td>爱好特长：</td>
+				<td height="50"></td>
+			</tr>
+		</table>
+			
+		<hr width="800" align="center">
+		
+		<h4 align="left"> 自我评价</h4>
+		
+		<hr width="800" align="center">
+		<table align="center" width="800">
+		</table>
+ 
+ 
+	   </table>
+	</div>
 </p>
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xiaoxpl/xiaoxpl.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
