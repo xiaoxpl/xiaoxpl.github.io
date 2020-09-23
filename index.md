@@ -1,6 +1,6 @@
 ## Welcome to xiaoxpl's GitHub Pages
 <p>
-	<table border="0"
+	<table border="1"
 		   cellspacing="0px"
 		   style="margin:auto;"
 		   width="800px">
@@ -116,7 +116,8 @@
 			<td>河北省石家庄市石家庄铁道大学</td>
 			<td>邮编</td>
 			<td>050043</td>
-		</tr></table>
+		</tr>
+</table>
 
 
 
